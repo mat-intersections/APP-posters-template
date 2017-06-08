@@ -30,6 +30,7 @@ In InDesign, open **template.idml**. Go to **Window > Utilities > Data Merge**, 
 **When updating the template** please always save as IDML not INDD, this will avoid many future bugs between InDesign versions and it plays a bit nicer with source control.  
 Note that when you open an IDML in newer versions of InDesign it opens it as a template (ie creates an Untitled copy) so you have to make sure you overwrite/save when needed.
 
+**MAKE SURE YOU DO NOT COMMIT THE CSV FILE with everybody's name and project details — this repository is public!!** Ideally make a copy of the template projects.csv and add it to the `.gitignore`
 
 ### Template status
 
